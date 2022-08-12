@@ -62,7 +62,7 @@ function Card3() {
             </div>
           <hr></hr>
 
-          <div className="flex justify-between p-5 bg-slate-50 text-gray-600 flex-wrap">
+          <div className="flex justify-between p-5 bg-slate-50 text-gray-600 flex-wrap overflow-auto">
             <div>Product</div> <div>orers</div> <div>REVENUE</div>
           </div>
           <hr></hr>
